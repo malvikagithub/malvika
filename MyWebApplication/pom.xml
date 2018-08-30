@@ -4,7 +4,7 @@
   <groupId>com.javacodegeeks</groupId>
   <artifactId>MyWebApplication</artifactId>
   <packaging>war</packaging>
-  <version>SNAPSHOT-1.2.${v}</version>
+  <version>SNAPSHOT-${v}</version>
   <name>MyWebApplication</name>
   <url>http://maven.apache.org</url>
   <dependencies>
